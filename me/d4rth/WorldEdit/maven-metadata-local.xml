@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.d4rth</groupId>
+  <artifactId>WorldEdit</artifactId>
+  <versioning>
+    <release>depend</release>
+    <versions>
+      <version>depend</version>
+    </versions>
+    <lastUpdated>20190920133020</lastUpdated>
+  </versioning>
+</metadata>
