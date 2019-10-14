@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.d4rth</groupId>
+  <artifactId>PaperCore</artifactId>
+  <versioning>
+    <release>1.12.x</release>
+    <versions>
+      <version>1.12.x</version>
+    </versions>
+    <lastUpdated>20191014084220</lastUpdated>
+  </versioning>
+</metadata>
