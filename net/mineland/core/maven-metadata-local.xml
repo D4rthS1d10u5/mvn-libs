@@ -3,11 +3,12 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>fix-classloader-1.16</release>
+    <release>fix-dupes</release>
     <versions>
       <version>1_16_1</version>
       <version>fix-classloader-1.16</version>
+      <version>fix-dupes</version>
     </versions>
-    <lastUpdated>20200922193707</lastUpdated>
+    <lastUpdated>20210101035118</lastUpdated>
   </versioning>
 </metadata>
