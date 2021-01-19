@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Добавил ядро с фиксом портального дюпа отдельно" />
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Добавил ядро с удалением коллизии при взаимодействии с рамками">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609705175457</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавил ядро с удалением коллизии при взаимодействии с рамками">
+      <created>1611081352837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611081352837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,12 +144,13 @@
     <MESSAGE value="Добавил core 1.16 с фиксом загрузки классов" />
     <MESSAGE value="Добавил ядро с фиксом дюпов" />
     <MESSAGE value="Добавил ядро с фиксом портального дюпа отдельно" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил ядро с фиксом портального дюпа отдельно" />
+    <MESSAGE value="Добавил ядро с удалением коллизии при взаимодействии с рамками" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил ядро с удалением коллизии при взаимодействии с рамками" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1609705176722">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1611081354379">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1609705176722" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611081354379" />
   </component>
 </project>
