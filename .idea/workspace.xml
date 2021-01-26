@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Добавил ядро с удалением коллизии при взаимодействии с рамками">
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Залил ядро с фиксом автокрафта">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611081824952</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Залил ядро с фиксом автокрафта">
+      <created>1611579592849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611579592849</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,12 +160,13 @@
     <MESSAGE value="Добавил ядро с фиксом портального дюпа отдельно" />
     <MESSAGE value="Добавил ядро с удалением коллизии при взаимодействии с рамками" />
     <MESSAGE value="Залил ядро с фиксом лодок рамок коллизий 2 короче" />
-    <option name="LAST_COMMIT_MESSAGE" value="Залил ядро с фиксом лодок рамок коллизий 2 короче" />
+    <MESSAGE value="Залил ядро с фиксом автокрафта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Залил ядро с фиксом автокрафта" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1611081826146">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1611579595557">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611081826146" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611579595557" />
   </component>
 </project>
