@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>autocraftfix</release>
+    <release>itemframe-rollback</release>
     <versions>
       <version>1_16_1</version>
       <version>fix-classloader-1.16</version>
@@ -11,7 +11,8 @@
       <version>portaldupefix</version>
       <version>boatcollisionfix</version>
       <version>autocraftfix</version>
+      <version>itemframe-rollback</version>
     </versions>
-    <lastUpdated>20210125125920</lastUpdated>
+    <lastUpdated>20210224004139</lastUpdated>
   </versioning>
 </metadata>
