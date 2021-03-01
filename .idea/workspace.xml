@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Залил сурсы для LuckyBlock">
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Откат правок по коллизиям рамок">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611671674411</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Откат правок по коллизиям рамок">
+      <created>1614127335928</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614127335928</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,12 +176,13 @@
     <MESSAGE value="Залил ядро с фиксом лодок рамок коллизий 2 короче" />
     <MESSAGE value="Залил ядро с фиксом автокрафта" />
     <MESSAGE value="Залил сурсы для LuckyBlock" />
-    <option name="LAST_COMMIT_MESSAGE" value="Залил сурсы для LuckyBlock" />
+    <MESSAGE value="Откат правок по коллизиям рамок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Откат правок по коллизиям рамок" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1611671676081">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1614127337157">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1611671676081" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1614127337157" />
   </component>
 </project>
