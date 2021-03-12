@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Откат правок по коллизиям рамок">
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Мои лакиблоки с фиксами">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614127335928</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Мои лакиблоки с фиксами">
+      <created>1614633330154</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614633330154</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,12 +187,13 @@
     <MESSAGE value="Залил ядро с фиксом автокрафта" />
     <MESSAGE value="Залил сурсы для LuckyBlock" />
     <MESSAGE value="Откат правок по коллизиям рамок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Откат правок по коллизиям рамок" />
+    <MESSAGE value="Мои лакиблоки с фиксами" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мои лакиблоки с фиксами" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1614127337157">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1614633334597">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1614127337157" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1614633334597" />
   </component>
 </project>
