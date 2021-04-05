@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Мои лакиблоки с фиксами">
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="Залил ядра с фиксами загрузчиков классов">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614633330154</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Залил ядра с фиксами загрузчиков классов">
+      <created>1615580978200</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615580978200</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,12 +192,13 @@
     <MESSAGE value="Залил сурсы для LuckyBlock" />
     <MESSAGE value="Откат правок по коллизиям рамок" />
     <MESSAGE value="Мои лакиблоки с фиксами" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мои лакиблоки с фиксами" />
+    <MESSAGE value="Залил ядра с фиксами загрузчиков классов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Залил ядра с фиксами загрузчиков классов" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1614633334597">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1615580980181">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1614633334597" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615580980181" />
   </component>
 </project>
