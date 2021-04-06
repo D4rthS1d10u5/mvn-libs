@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615580978200</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Залил ядро с фиксом бессмертия при телепортации">
+      <created>1617642525192</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617642525192</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,12 +200,13 @@
     <MESSAGE value="Откат правок по коллизиям рамок" />
     <MESSAGE value="Мои лакиблоки с фиксами" />
     <MESSAGE value="Залил ядра с фиксами загрузчиков классов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Залил ядра с фиксами загрузчиков классов" />
+    <MESSAGE value="Залил ядро с фиксом бессмертия при телепортации" />
+    <option name="LAST_COMMIT_MESSAGE" value="Залил ядро с фиксом бессмертия при телепортации" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1615580980181">
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2" timestamp="1617642528358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615580980181" />
+    <state x="278" y="106" width="802" height="551" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1617642528358" />
   </component>
 </project>
