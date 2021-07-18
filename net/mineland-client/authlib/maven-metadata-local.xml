@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland-client</groupId>
+  <artifactId>authlib</artifactId>
+  <versioning>
+    <release>mojang</release>
+    <versions>
+      <version>mojang</version>
+    </versions>
+    <lastUpdated>20210718161025</lastUpdated>
+  </versioning>
+</metadata>

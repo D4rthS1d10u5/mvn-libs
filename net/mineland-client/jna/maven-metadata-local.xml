@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland-client</groupId>
+  <artifactId>jna</artifactId>
+  <versioning>
+    <release>mojang</release>
+    <versions>
+      <version>mojang</version>
+    </versions>
+    <lastUpdated>20210718160959</lastUpdated>
+  </versioning>
+</metadata>
