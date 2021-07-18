@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>log4j-slf4j18-impl</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-2.14.1</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-2.14.1</version>
     </versions>
-    <lastUpdated>20210718161004</lastUpdated>
+    <lastUpdated>20210718162059</lastUpdated>
   </versioning>
 </metadata>

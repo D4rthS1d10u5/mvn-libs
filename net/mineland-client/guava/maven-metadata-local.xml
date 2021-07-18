@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>guava</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-21.0</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-21.0</version>
     </versions>
-    <lastUpdated>20210718161011</lastUpdated>
+    <lastUpdated>20210718162106</lastUpdated>
   </versioning>
 </metadata>

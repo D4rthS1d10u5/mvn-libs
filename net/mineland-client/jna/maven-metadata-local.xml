@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>jna</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-5.8.0</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-5.8.0</version>
     </versions>
-    <lastUpdated>20210718160959</lastUpdated>
+    <lastUpdated>20210718162055</lastUpdated>
   </versioning>
 </metadata>

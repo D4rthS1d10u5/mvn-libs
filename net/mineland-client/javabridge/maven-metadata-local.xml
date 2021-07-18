@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>javabridge</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-1.1.23</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-1.1.23</version>
     </versions>
-    <lastUpdated>20210718161006</lastUpdated>
+    <lastUpdated>20210718162102</lastUpdated>
   </versioning>
 </metadata>

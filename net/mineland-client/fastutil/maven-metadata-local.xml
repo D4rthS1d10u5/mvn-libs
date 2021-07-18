@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>fastutil</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-8.2.1</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-8.2.1</version>
     </versions>
-    <lastUpdated>20210718161032</lastUpdated>
+    <lastUpdated>20210718162126</lastUpdated>
   </versioning>
 </metadata>

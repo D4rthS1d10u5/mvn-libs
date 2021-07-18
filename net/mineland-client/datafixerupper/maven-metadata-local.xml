@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>datafixerupper</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-4.0.26</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-4.0.26</version>
     </versions>
-    <lastUpdated>20210718161021</lastUpdated>
+    <lastUpdated>20210718162116</lastUpdated>
   </versioning>
 </metadata>

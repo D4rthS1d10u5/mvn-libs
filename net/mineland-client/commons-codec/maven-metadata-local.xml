@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>commons-codec</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-1.10</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-1.10</version>
     </versions>
-    <lastUpdated>20210718161015</lastUpdated>
+    <lastUpdated>20210718162110</lastUpdated>
   </versioning>
 </metadata>

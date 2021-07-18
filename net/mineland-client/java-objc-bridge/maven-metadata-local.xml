@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>java-objc-bridge</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-1.0.0</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-1.0.0</version>
     </versions>
-    <lastUpdated>20210718161126</lastUpdated>
+    <lastUpdated>20210718162212</lastUpdated>
   </versioning>
 </metadata>

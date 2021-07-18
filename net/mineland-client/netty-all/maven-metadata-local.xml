@@ -3,10 +3,10 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>netty-all</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-4.1.25.Final</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-4.1.25.Final</version>
     </versions>
-    <lastUpdated>20210718161009</lastUpdated>
+    <lastUpdated>20210718162105</lastUpdated>
   </versioning>
 </metadata>

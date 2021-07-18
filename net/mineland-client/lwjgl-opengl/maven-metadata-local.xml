@@ -3,10 +3,11 @@
   <groupId>net.mineland-client</groupId>
   <artifactId>lwjgl-opengl</artifactId>
   <versioning>
-    <release>mojang</release>
+    <release>mojang-3.2.2</release>
     <versions>
-      <version>mojang</version>
+      <version>mojang-3.2.1</version>
+      <version>mojang-3.2.2</version>
     </versions>
-    <lastUpdated>20210718161111</lastUpdated>
+    <lastUpdated>20210718162159</lastUpdated>
   </versioning>
 </metadata>
