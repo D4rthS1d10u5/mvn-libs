@@ -220,7 +220,8 @@
     <MESSAGE value="Добавил плагины мод-чекеры" />
     <MESSAGE value="Добавил либы под 1.17" />
     <MESSAGE value="Добавил либы под 1.17 нормально" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил либы под 1.17 нормально" />
+    <MESSAGE value="Добавил 1.16 ядро с новыми asm классами" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил 1.16 ядро с новыми asm классами" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
 </project>
