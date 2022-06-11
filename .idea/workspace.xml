@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="" />
+    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +47,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -47,11 +61,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -196,7 +211,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавил zPermissions, PermissionsEx" />
@@ -220,7 +234,8 @@
     <MESSAGE value="Добавил либы под 1.17 нормально" />
     <MESSAGE value="Добавил 1.16 ядро с новыми asm классами" />
     <MESSAGE value="Добавил 1.16 ядро с новыми asm классами + фиксом класслоадера из другой ветки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил 1.16 ядро с новыми asm классами + фиксом класслоадера из другой ветки" />
+    <MESSAGE value="Добавил WorldGuard зависимость" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил WorldGuard зависимость" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
 </project>
