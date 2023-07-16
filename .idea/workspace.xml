@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="Добавил ядро 1.16.5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,7 +224,8 @@
     <MESSAGE value="Добавил 1.16 ядро с новыми asm классами" />
     <MESSAGE value="Добавил 1.16 ядро с новыми asm классами + фиксом класслоадера из другой ветки" />
     <MESSAGE value="Добавил WorldGuard зависимость" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил WorldGuard зависимость" />
+    <MESSAGE value="Добавил ядро 1.16.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил ядро 1.16.5" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
 </project>
