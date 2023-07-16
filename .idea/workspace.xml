@@ -19,17 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f31d34f-1533-474a-8f6a-57e324e2460a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/1.19/BungeeBotFilter-1.19.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/mineland/BungeeBotFilter/maven-metadata-local.xml.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/mineland/core/1.16.5-class-fixes/core-1.16.5-class-fixes.pom.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/net/mineland/core/maven-metadata-local.xml.sha1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +61,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />

@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.16-asm-update-fix-class-loader</release>
+    <release>1.16.5-class-fixes</release>
     <versions>
       <version>1_16_1</version>
       <version>fix-classloader-1.16</version>
@@ -17,7 +17,8 @@
       <version>teleport-fix</version>
       <version>1.16-asm-update</version>
       <version>1.16-asm-update-fix-class-loader</version>
+      <version>1.16.5-class-fixes</version>
     </versions>
-    <lastUpdated>20211205191950</lastUpdated>
+    <lastUpdated>20230716111254</lastUpdated>
   </versioning>
 </metadata>
