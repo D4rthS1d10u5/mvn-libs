@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="Добавил ядро 1.16.5" />
+    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="Добавил ядро 1.16.5 [2]">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,12 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -202,6 +205,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Добавил zPermissions, PermissionsEx" />
     <MESSAGE value="Добавил PowerfulPermsAPI, bPermissions, PermissionsBukkit" />
     <MESSAGE value="Добавил core 1.16" />
@@ -225,7 +229,8 @@
     <MESSAGE value="Добавил 1.16 ядро с новыми asm классами + фиксом класслоадера из другой ветки" />
     <MESSAGE value="Добавил WorldGuard зависимость" />
     <MESSAGE value="Добавил ядро 1.16.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил ядро 1.16.5" />
+    <MESSAGE value="Добавил ядро 1.16.5 [2]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил ядро 1.16.5 [2]" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
 </project>
