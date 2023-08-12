@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="e">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6664f7e-0e95-477d-b728-3d0b2fe917dc" name="Changes" comment="Добавил Via зависимость" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +204,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Добавил zPermissions, PermissionsEx" />
     <MESSAGE value="Добавил PowerfulPermsAPI, bPermissions, PermissionsBukkit" />
     <MESSAGE value="Добавил core 1.16" />
     <MESSAGE value="Добавил WE 1.16" />
@@ -231,7 +228,8 @@
     <MESSAGE value="Добавил ядро 1.16.5" />
     <MESSAGE value="Добавил ядро 1.16.5 [2]" />
     <MESSAGE value="e" />
-    <option name="LAST_COMMIT_MESSAGE" value="e" />
+    <MESSAGE value="Добавил Via зависимость" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил Via зависимость" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
 </project>
